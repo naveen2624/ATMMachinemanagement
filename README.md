@@ -13,6 +13,7 @@ through password and Withdraw, Deposit, Balance Enquiry and Reset Password.
 • To achieve speedy processing of customer data
 • To reduce error processing, the guarantee of increase security
 
+
 # Modules of Project:
 • Account- This Displays the login menu which displays Login, Register, Exit.
 • Login- This allows the user to login through username and password.
